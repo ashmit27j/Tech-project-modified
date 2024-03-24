@@ -1,7 +1,11 @@
+#this file is to ignore all the things that are not to be pushed onto github
+#to ignore dev dependencies
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+            
+.venv/
 
 # C extensions
 *.so
